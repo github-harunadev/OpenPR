@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="warning.png" alt="OpenPRGame" width="960">
+  <img src="warning.png" alt="OpenPRGame" width="1024">
 </h1>
 ## This project is now in plan. There's nothing but some plans. There's no playable game yet, but in future there will be!
 
