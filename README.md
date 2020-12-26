@@ -1,9 +1,6 @@
-
-# OpenPRGame
-
 <h1 align="center">
   <br>
-  <img src="banner.png" alt="OpenPRGame" width="480">
+  <img src="banner.png" alt="OpenPRGame" width="960">
 </h1>
 
 OpenPRGame is an open-source remake of Princess Rush (プリンセスラッシュ).
