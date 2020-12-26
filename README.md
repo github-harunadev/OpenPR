@@ -17,7 +17,7 @@ This game was **my one of the favorite** game. Unfortunately, the game has stopp
 - Gson
 
 # Play
-[PR]: https://github.com/akashnimare/foco/releases
+[PR]: https://github.com/github-harunadev/OpenPRGame/releases
 ### Desktop (Windows, Linux)
 
 1. Download Java 8 compatible JRE or JDK
