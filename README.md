@@ -22,6 +22,9 @@ This game was **my one of the favorite** game. Unfortunately, the game has stopp
 - LibGDX
 - Gson
 
+# Multi-player battle warning
+Your multi-player gameplay experience will be seized if you're having a huge delay, or connection problem with https://harunadev.com. Don't worry - You can always play on local server.
+
 # Play
 [PR]: https://github.com/github-harunadev/OpenPRGame/releases
 ### Desktop (Windows, Linux)
